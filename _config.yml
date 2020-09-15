@@ -1,5 +1,5 @@
-title: devlopr
-subtitle: A Jekyll Theme Built for Developers
+title: Sagar Mittal
+subtitle: A portfolio cum personal blog
 description: >- # this means to ignore newlines until "baseurl:"
   devlopr-jekyll is a beautiful Jekyll Theme Built For Developers, which is optimized for speed and readability.
 
@@ -25,11 +25,11 @@ urls:
 # Edit these details
 
 author_logo: profile.png
-author: John Doe
-author_bio: Hi, my name is John Doe. I built this site using devlopr-jekyll :D
-author_email: "mail@sujaykundu.com"
-author_location: India
-author_website_url: "https://sujaykundu.com"
+author: Sagar Mittal
+author_bio: Hi, my name is Sagar Mittal. I built this site using devlopr-jekyll :D
+author_email: "mittalsagar006@gmail.com"
+author_location: Jaipur, India
+author_website_url: "https://sagar.ninja"
 typewrite-text: devlopr is a jekyll theme built for developers. You can edit this in _config.yml file
 
 author_work_experiences:
@@ -48,9 +48,9 @@ author_work_experiences:
 
 author_education_details:
               - college_logo: mit.png
-                college_name: MIT
-                college_url: https://mit.org
-                college_degree: CS Engineer
+                college_name: Global Institute of Technology
+                college_url: https://gitjaipur.com
+                college_degree: BTech in Computer Science
                 description: Bachelor of Technology
                 visibility: true
 
@@ -67,16 +67,12 @@ author_project_details:
                 visibility: true
 
 # social links
-twitter_username: johndoe
-github_username:  sujaykundu777
+twitter_username: sagar_mittal5
+github_username:  sagarmittal1
 facebook_username: johndoe
-linkedin_username: johndoe
-behance_username: johndoe
-instagram_username: johndoe
-medium_username: johndoe
-telegram_username: johndoe
-dribbble_username: johndoe
-flickr_username: johndoe
+linkedin_username: sagarmittal5
+instagram_username: sagar_mittal5
+medium_username: mittalsagar006
 
 #for comments ( we got Disqus and Hyvor Commenting, uncomment the one you want to use )
 
