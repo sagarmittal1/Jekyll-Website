@@ -48,9 +48,9 @@ author_work_experiences:
 
 author_education_details:
               - college_logo: mit.png
-                college_name: MIT
-                college_url: https://mit.org
-                college_degree: CS Engineer
+                college_name: Global Institute of Technology
+                college_url: https://gitjaipur.com
+                college_degree: BTech in Computer Science
                 description: Bachelor of Technology
                 visibility: true
 
@@ -67,16 +67,12 @@ author_project_details:
                 visibility: true
 
 # social links
-twitter_username: johndoe
-github_username:  sujaykundu777
+twitter_username: sagar_mittal5
+github_username:  sagarmittal1
 facebook_username: johndoe
-linkedin_username: johndoe
-behance_username: johndoe
-instagram_username: johndoe
-medium_username: johndoe
-telegram_username: johndoe
-dribbble_username: johndoe
-flickr_username: johndoe
+linkedin_username: sagarmittal5
+instagram_username: sagar_mittal5
+medium_username: mittalsagar006
 
 #for comments ( we got Disqus and Hyvor Commenting, uncomment the one you want to use )
 
