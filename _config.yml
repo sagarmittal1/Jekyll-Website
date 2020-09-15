@@ -1,5 +1,5 @@
-title: devlopr
-subtitle: A Jekyll Theme Built for Developers
+title: Sagar Mittal
+subtitle: A portfolio cum personal blog
 description: >- # this means to ignore newlines until "baseurl:"
   devlopr-jekyll is a beautiful Jekyll Theme Built For Developers, which is optimized for speed and readability.
 
@@ -25,11 +25,11 @@ urls:
 # Edit these details
 
 author_logo: profile.png
-author: John Doe
-author_bio: Hi, my name is John Doe. I built this site using devlopr-jekyll :D
-author_email: "mail@sujaykundu.com"
-author_location: India
-author_website_url: "https://sujaykundu.com"
+author: Sagar Mittal
+author_bio: Hi, my name is Sagar Mittal. I built this site using devlopr-jekyll :D
+author_email: "mittalsagar006@gmail.com"
+author_location: Jaipur, India
+author_website_url: "https://sagar.ninja"
 typewrite-text: devlopr is a jekyll theme built for developers. You can edit this in _config.yml file
 
 author_work_experiences:
