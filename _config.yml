@@ -1,36 +1,36 @@
 title: Sagar Mittal
-subtitle: A portfolio cum personal blog
+subtitle: Open Source Enthusiast
 description: >- # this means to ignore newlines until "baseurl:"
-  devlopr-jekyll is a beautiful Jekyll Theme Built For Developers, which is optimized for speed and readability.
+  A Jekyll powered blog for personal thoughts
 
-url: "" # the base hostname & protocol for your site, e.g. https://example.github.io
-baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://sagar.ninja" # the base hostname & protocol for your site, e.g. https://example.github.io
+baseurl: "/" # the subpath of your site, e.g. /blog
 
 urls:
     - text: About Me
       url: /about
     - text: Blog
       url: /blog
-    - text: Gallery
-      url: /gallery
-    - text: Shop
-      url : /shop
+#    - text: Gallery
+#      url: /gallery
+#    - text: Shop
+#      url : /shop
     - text: Contact Me
       url : /contact
-    - text: Styleguide
-      url: /styleguide
-    - text: Get Started
-      url: /get-started
+#    - text: Styleguide
+#      url: /styleguide
+#    - text: Get Started
+#      url: /get-started
 
 # Edit these details
 
-author_logo: profile.png
+author_logo: sagar-mittal.png
 author: Sagar Mittal
-author_bio: Hi, my name is Sagar Mittal. I built this site using devlopr-jekyll :D
+author_bio: Hi, my name is Sagar. I'm a computer science sophomore, currently pursuing my BTech in CS from GIT Jaipur. I'm a web developer and a Open Source Enthusiast mainly working in Frontend Technologies.
 author_email: "mittalsagar006@gmail.com"
 author_location: Jaipur, India
 author_website_url: "https://sagar.ninja"
-typewrite-text: devlopr is a jekyll theme built for developers. You can edit this in _config.yml file
+typewrite-text: A personal blog for writing about 100daysofcode
 
 author_work_experiences:
             - company_name: Google
@@ -47,46 +47,46 @@ author_work_experiences:
               visibility: true
 
 author_education_details:
-              - college_logo: mit.png
+              - college_logo: git.png
                 college_name: Global Institute of Technology
                 college_url: https://gitjaipur.com
                 college_degree: BTech in Computer Science
-                description: Bachelor of Technology
+                description: 2019 - 2023(Expected) 
                 visibility: true
 
 author_project_details:
-              - project_thumbnail: gamershub.png
-                project_title: Gamers Hub
-                project_description: A Platform built for Gamers and Game Devs
-                project_url: https://gamershub.in
+              - project_thumbnail: project-1.png
+                project_title: Personal Portfolio Website
+                project_description: By using HTML, CSS and basic Bootstrap and sass, I created a portfolio website and added Google Analytics.
+                project_url: https://github.com/sagarmittal1/sagarmittal1.github.io
                 visibility: true
               - project_thumbnail: hack4r.PNG
                 project_title: Hack4r
                 project_description: A Platform built for Hackers and Penetration Testers
                 project_url: https://hack4r.com
-                visibility: true
+                visibility: false
 
 # social links
 twitter_username: sagar_mittal5
 github_username:  sagarmittal1
-facebook_username: johndoe
+#facebook_username: johndoe
 linkedin_username: sagarmittal5
 instagram_username: sagar_mittal5
 medium_username: mittalsagar006
 
 #for comments ( we got Disqus and Hyvor Commenting, uncomment the one you want to use )
 
-# disqus_shortname: sujay-kundu
-hyvor_talk_website_id: 476
+disqus_shortname: sujay-kundu
+# hyvor_talk_website_id: 476
 
 # wakatime username (coding activity)
-wakatime_username: sujaykundu777
+wakatime_username: sagarmittal
 
 # mailchimp embedded form url (newsletter):
 mailchimp_form_url: https://sujaykundu.us10.list-manage.com/subscribe/post?u=50bab1c85eae24ecfb0f68361&amp;id=3a2dd721d0
 
 # formspree (contact form)
-formspree_email: johndoe@gmail.com
+formspree_email: mittalsagar006@gmail.com
 
 # syntax highlighter
 markdown: kramdown
@@ -94,7 +94,7 @@ highlighter: rouge
 permalink: pretty
 
 # Choose what to show ( can be true or false)
-show_author_work_experiences: true
+show_author_work_experiences: false
 show_author_education_details: true
 show_author_project_details: true
 
