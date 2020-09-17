@@ -2,7 +2,7 @@ backend:
   name: github
   repo: sagarmittal1/sagarmittal1.github.io
   branch: master
-  site_domain: https://determined-clarke-c61976.netlify.app
+  site_domain: determined-clarke-c61976.netlify.app
 
 media_folder: "assets/img/posts" # Media files will be stored in the repo under images/uploads
 public_folder: "/assets/img/posts" # The src attribute for uploaded media will begin with /images/uploads
